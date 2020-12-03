@@ -20,5 +20,6 @@ public class Test01 {
 
         System.out.println("见附件");
         System.out.println("你好北极光in");
+        System.out.println("北京欢迎你");
     }
 }
