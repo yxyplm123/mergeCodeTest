@@ -3,8 +3,11 @@ package sample;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("测试提交代码第一次");
-        System.out.println("develop 第二次提交代码");
-        System.out.println("develop第三次提交diamante");
-        System.out.println("提交代码");
+        System.out.println("0001");
+        System.out.println("0002");
+        System.out.println("0003");
+        System.out.println("0004的骄傲了");
+        System.out.println("00005d付好款");
+        System.out.println("哎，心好累");
     }
 }
