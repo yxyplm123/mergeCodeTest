@@ -8,5 +8,6 @@ public class Test01 {
         System.out.println("0003");
         System.out.println("0004的骄傲了");
         System.out.println("00005d付好款");
+        System.out.println("哎，心好累");
     }
 }
