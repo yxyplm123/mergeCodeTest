@@ -16,5 +16,9 @@ public class Test01 {
 
 
         System.out.println("哈哈哈");
+
+
+        System.out.println("见附件");
+        System.out.println("你好北极光in");
     }
 }
