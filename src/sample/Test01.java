@@ -20,5 +20,9 @@ public class Test01 {
 
         System.out.println("见附件");
         System.out.println("你好北极光in");
+        System.out.println("北京欢迎你");
+    }
+    private void fun(){
+        System.out.println("你好阿呢经");
     }
 }
