@@ -5,5 +5,7 @@ public class Test01 {
         System.out.println("测试提交代码第一次");
         System.out.println("0001");
         System.out.println("0002");
+        System.out.println("0003");
+        System.out.println("0004的骄傲了");
     }
 }
