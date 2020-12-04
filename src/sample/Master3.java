@@ -12,5 +12,6 @@ public class Master3 {
 
         String city ="成都，北京，上海";
 
+        String food = "三只松鼠，良品铺子，无良制裁";
     }
 }
