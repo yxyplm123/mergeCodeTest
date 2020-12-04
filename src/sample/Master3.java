@@ -9,5 +9,8 @@ public class Master3 {
         System.out.println(str+":"+name);
 
         String person = "刘德华你在哪里";
+
+        String city ="成都，北京，上海";
+
     }
 }
