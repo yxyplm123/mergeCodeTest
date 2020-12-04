@@ -7,5 +7,7 @@ public class Master3 {
         String name = "是他就是他，我们的小英雄，小哪吒";
 
         System.out.println(str+":"+name);
+
+        String person = "刘德华你在哪里";
     }
 }
