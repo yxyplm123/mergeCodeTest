@@ -23,5 +23,6 @@ public class Master3 {
         }
 
         String string = "nihao";
+        String name_num2 = "刘德华，郭富城，黎明，张学友";
     }
 }
