@@ -22,5 +22,6 @@ public class Master3 {
             System.out.println("打印出各个数据:"+i);
         }
 
+        String string = "nihao";
     }
 }
