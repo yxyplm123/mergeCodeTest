@@ -16,7 +16,11 @@ public class Master3 {
 
         String city ="成都，北京，上海";
         String eat = "麻婆豆腐";
-
+        String fiesty = "春节";
+        int sum = 9;
+        for(int i=0;i<sum;i++){
+            System.out.println("打印出各个数据:"+i);
+        }
 
     }
 }
