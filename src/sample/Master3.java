@@ -32,5 +32,7 @@ public class Master3 {
         System.out.println("你好，北京，你好，上海");
 
         System.out.println("我不好");
+
+        System.out.println("你好吗，北京，在吗.北京炸酱面");
     }
 }
