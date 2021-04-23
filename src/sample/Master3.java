@@ -28,5 +28,9 @@ public class Master3 {
           default:
               System.out.println("1111111");
       }
+
+        System.out.println("你好，北京，你好，上海");
+
+        System.out.println("我不好");
     }
 }
