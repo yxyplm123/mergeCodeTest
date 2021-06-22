@@ -2,27 +2,67 @@ package sample;
 
 public class Test01 {
     public static void main(String[] args) {
-        System.out.println("测试提交代码第一次");
-        System.out.println("0001");
-        System.out.println("0002");
-        System.out.println("0003");
-        System.out.println("0004的骄傲了");
-        System.out.println("00005d付好款");
-        System.out.println("哎，心好累");
 
+        /*
 
+         * 分配内存是底层代码，观察不到，
 
+         * 只能看到自己的运算代码
 
+         *
 
+         * f8 连续向后执行，
 
-        System.out.println("哈哈哈");
+         * 直到遇到下一个断点
 
+         */
 
-        System.out.println("见附件");
-        System.out.println("你好北极光in");
-        System.out.println("北京欢迎你");
+        new B();
+        System.out.println("----------------");
+        new B();
+
     }
-    private void fun(){
-        System.out.println("你好阿呢经");
+
+}//Test1结束
+
+
+
+class A {
+
+    int v1 = 1;
+
+    static int v2 = 2;
+
+    static {
+
+        System.out.println("A静态块");
+
     }
+
+    A() {
+
+        System.out.println("A构造");
+
+    }
+
+}
+
+class B extends A {
+
+    int v3 = 3;
+
+    static int v4 = 4;
+
+    static {
+
+        System.out.println("B静态块");
+
+    }
+
+    B() {
+
+        System.out.println("B构造");
+
+    }
+
 }

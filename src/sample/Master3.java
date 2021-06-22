@@ -34,5 +34,14 @@ public class Master3 {
         System.out.println("我不好");
 
         System.out.println("你好吗，北京，在吗.北京炸酱面");
+
+        String str1 = "123456";
+        int i1 = str1.indexOf("45");
+        System.out.println(i1);
+
+        int ai = 1;
+        int a= ai++;
+        int b = ++ai;
+        System.out.println("第一个值:"+a+",第二个值："+b);
     }
 }
